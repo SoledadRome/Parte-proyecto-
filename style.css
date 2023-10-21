@@ -190,6 +190,16 @@ button:hover{
 
 }
 
+@media(min-width: 1100px){
+    .containner{
+        width: 100%;
+        max-width: 1025px;
+    }
+    .prev{
+        right: 66.1%;
+    }
+}
+
 @media(max-width:768px){
     img{
         width: 50%;
